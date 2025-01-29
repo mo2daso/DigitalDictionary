@@ -1,0 +1,44 @@
+Car
+A means of transport
+Vehicle
+Noun
+Coding
+The process of writing computer programs
+Programming
+Noun
+Eagerly
+Strong Desire
+Readily
+Adverb
+Echoes
+Be reminiscent of or have shared characteristics with
+Reverb
+Noun
+Ecstasy
+Extreme Happiness
+Joy
+Adjective
+Melancholic
+Feeling sadness
+Upset
+Noun
+Nostalgic
+Longing for something
+Wishing
+Adjective
+Persona
+Aspect of someone's personality percieved by others
+Personality
+Noun
+Reading
+Process of going through words
+Understanding
+Noun
+Seredipity
+Good luck in
+Good fortune
+Noun
+Strong
+Energetic
+Powerful
+Adjective
